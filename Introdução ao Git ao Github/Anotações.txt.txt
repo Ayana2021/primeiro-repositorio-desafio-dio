@@ -1,0 +1,9 @@
+Comandos principais : 
+
+cls : Limpa Terminal
+dir : Listar
+c.. : Retrocede
+tab : Completa
+mkdir : Criar pasta
+echo : Printa texto de volta no terminal
+
